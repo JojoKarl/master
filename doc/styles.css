@@ -1,0 +1,31 @@
+body {
+  margin-left: 10em;
+  color: ##668cff;
+  background-color: #e6e6ff;
+  }
+  header{
+  font: italic 3em "Open Sans", sans-serif;
+  background-color:#b366ff;
+  font-weight: 800;
+ }
+ main:first-child {
+
+ font: italic 2em "Open Sans";
+ }
+ h1 {
+ color: #ff668c;
+ background-color:#ccccff;
+ }
+ h2 {
+ }
+ main {
+ font-weight: normal;
+ }
+
+ img {
+   box-shadow: 8px 8px 10px #aaa;
+ }
+ footer {
+ font: italic 1em "Open Sans";
+
+ }
