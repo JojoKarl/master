@@ -1,0 +1,26 @@
+body {
+  margin: auto;
+  color: #b34700;
+  background-color: #ffddcc;
+  width: 50%
+
+
+}
+main {
+    font-size: larger;
+     font-family: "cursive";
+}
+header {
+    font-size: larger;
+    background-color: #f0dbdb;
+    border-radius: 20%;
+
+
+
+}
+img {
+    border-radius: 10%;
+}
+.bonus{
+    border-radius: 90%;
+}
