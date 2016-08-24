@@ -53,15 +53,15 @@ img:first-child:hover {
 @keyframes looparound {
   0% {
     top: 0;
-    left: 140px;
+    left: 160px;
   }
   50% {
     top: 0;
-    left: -140px;
+    left: -160px;
   }
   100% {
     top: 0;
-    left: 140px;
+    left: 160px;
   }
 }
 .option {
